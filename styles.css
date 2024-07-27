@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(44, 44, 44);
+    color: rgb(221, 221, 221);
+}
+
+#header{
+    font-size: 100px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 800;
+}
+
+.para{
+    font-size: 50px;
+    text-align: center;
+    font-family: serif;
+}
+
+a {
+    color: rgb(100, 196, 228);
+    font-size: 40px;
+}
